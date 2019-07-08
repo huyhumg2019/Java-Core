@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java-Core_9e65f987"
+        }
+    ]
+}
