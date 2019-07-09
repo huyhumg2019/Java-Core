@@ -1,6 +1,15 @@
 {
     "configurations": [
-
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Caculator",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "Caculator",
+            "projectName": "Java-Core_9e65f987"
+            
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - SoNguyenTo",
@@ -8,7 +17,6 @@
             "mainClass": "SoNguyenTo",
             "console": "integratedTerminal",
             "projectName": "Java-Core_9e65f987"
-            
         },
         {
             "type": "java",
