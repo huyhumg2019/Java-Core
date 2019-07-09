@@ -1,5 +1,15 @@
 {
     "configurations": [
+
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SoNguyenTo",
+            "request": "launch",
+            "mainClass": "SoNguyenTo",
+            "console": "integratedTerminal",
+            "projectName": "Java-Core_9e65f987"
+            
+        },
         {
             "type": "java",
             "name": "CodeLens (Launch) - Fibonacci",
