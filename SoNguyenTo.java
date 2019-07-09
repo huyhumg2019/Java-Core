@@ -18,9 +18,11 @@ public class SoNguyenTo {
             return false;
         }
         for(int i = 2;i<=Math.sqrt(n);i++){
+            System.out.println("so i ="+i +"/"+"so n"+n);
             if(n%i==0){
                 return false;
             }
+           
             
         }
 
